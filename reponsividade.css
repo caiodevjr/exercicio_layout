@@ -9,11 +9,7 @@
         align-items: center;
     }
 
-    aside{
-        width: 50%;
-    }
-
-    .mid{
+    .mid, aside{
         width: 80%;
     }
 
